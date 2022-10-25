@@ -3,7 +3,7 @@
   description:
   authors: Lukas Veldman
   link:
-    url: https://www.ntvn.nl/2022/5/dynamiek-tussen-twee-atomen/
+    url: "/downloads/NTvN_2022-05.pdf"
     display: Nederlands Tijdschrift voor Natuurkunde 88-5 (2022)
   notes: ('Dynamics between two atoms')
   highlight: 0
@@ -13,8 +13,8 @@
   description:
   authors: Robbie Elbertse
   link:
-    url: https://www.ntvn.nl/2021/4/de-kleinste-muizenval-ooit/
-    display: Nederlands Tijdschrift voor Natuurkunde 87-4 (2022)
+    url: "/downloads/NTvN_2021-04.pdf"
+    display: Nederlands Tijdschrift voor Natuurkunde 87-4 (2021)
   notes: ('The smallest mousetrap ever?')
   highlight: 0
 
@@ -23,7 +23,7 @@
   description:
   authors: A. F. Otte
   link:
-    url: {{ site.url }}{{ site.baseurl }}/downloads/2014-06.pdf
+    url: "/downloads/NTvN_2014-06.pdf"
     display: Nederlands Tijdschrift voor Natuurkunde 80-6 (2014)
   notes: ('Magnetic awakening')
   highlight: 0
@@ -33,7 +33,7 @@
   description:
   authors: A. F. Otte
   link:
-    url: {{ site.url }}{{ site.baseurl }}/downloads/2009-02.pdf
+    url: "/downloads/NTvN_2009-02.pdf"
     display: Nederlands Tijdschrift voor Natuurkunde 75-2 (2009)
   notes: ('Dance of the electrons')
   highlight: 0
