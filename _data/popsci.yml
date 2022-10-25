@@ -1,0 +1,49 @@
+- title: "Dynamiek tussen twee atomen"
+  image:
+  description:
+  authors: Lukas Veldman
+  link:
+    url: https://www.ntvn.nl/2022/5/dynamiek-tussen-twee-atomen/
+    display: Nederlands Tijdschrift voor Natuurkunde 88-5 (2022)
+  notes: ('Dynamics between two atoms')
+  highlight: 0
+
+- title: "De kleinste muizenval ooit?"
+  image:
+  description:
+  authors: Robbie Elbertse
+  link:
+    url: https://www.ntvn.nl/2021/4/de-kleinste-muizenval-ooit/
+    display: Nederlands Tijdschrift voor Natuurkunde 87-4 (2022)
+  notes: ('The smallest mousetrap ever?')
+  highlight: 0
+
+- title: "Magnetische bewustwording"
+  image:
+  description:
+  authors: A. F. Otte
+  link:
+    url: {{ site.url }}{{ site.baseurl }}/downloads/2014-06.pdf
+    display: Nederlands Tijdschrift voor Natuurkunde 80-6 (2014)
+  notes: ('Magnetic awakening')
+  highlight: 0
+
+- title: "Dans der elektronen"
+  image:
+  description:
+  authors: A. F. Otte
+  link:
+    url: {{ site.url }}{{ site.baseurl }}/downloads/2009-02.pdf
+    display: Nederlands Tijdschrift voor Natuurkunde 75-2 (2009)
+  notes: ('Dance of the electrons')
+  highlight: 0
+
+- title: "Can data be stored in a single atom?"
+  image:
+  description:
+  authors: A. F. Otte
+  link:
+    url: https://doi.org/10.1051/epn:2008404
+    display: Europhysics News 39/4, 31 (2008)
+  notes: 
+  highlight: 0

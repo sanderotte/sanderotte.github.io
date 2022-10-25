@@ -1,0 +1,22 @@
+- name: Sander Otte
+  photo: Sander.jpg
+  info: Full Professor / PI
+  email: a.f.otte@tudelft.nl
+  office: F182
+  phone: +31 (0)15 278 8998 
+  number_educ: 4
+  education1: Postdoc NIST Gaithersburg (J. A. Stroscio)
+  education2: Intern IBM Almaden (A. J. Heinrich)
+  education3: PhD Leiden University (J. M. van Ruitenbeek)
+  education4: MSc, BSc Leiden University
+ 
+
+- name: Karin Wilhelm
+  photo: Karin.jpg
+  info: Management Assistant
+  email: c.j.wilhelm@tudelft.nl
+  office: F166
+  phone: +31 (0)15 278 7412
+  number_educ: 1
+
+

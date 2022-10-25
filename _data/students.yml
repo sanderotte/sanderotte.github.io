@@ -1,23 +1,13 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Thijs van den Munckhof
+- name: Mark Canavan
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: MSc Student
+  email: 
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: Sander Kammeraat
   photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: MSc Student (Casimir)
+  email: 
   number_educ: 0
   education1:
