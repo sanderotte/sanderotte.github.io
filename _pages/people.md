@@ -100,7 +100,6 @@ Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i><br />
-  <br />
   <i> office: </i>{{ member.office }}<br />
   <i> email: </i><{{ member.email }}><br />
  
