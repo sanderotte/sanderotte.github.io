@@ -9,9 +9,12 @@ permalink: /publications/
 
 ## Publications
 
+ 
 ### Highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+Skip to list of [all peer-reviewed publications](#allpubs). Below, you can also find our [popular scientific](#popsci) papers and [PhD theses](#theses).
+<br />
+<br />
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,14 +52,13 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p id="allpubs"></p>
 
 <!--
 ### Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 -->
+
 
 ### All Publications
 
@@ -80,6 +82,8 @@ permalink: /publications/
 {% endfor %}
 <br />
 
+<p id="popsci"></p>
+
 #### Popular Scientific
 
 {% for publi in site.data.popsci %}
@@ -90,6 +94,8 @@ permalink: /publications/
 
 {% endfor %}
 <br />
+
+<p id="theses"></p>
 
 #### PhD Theses
 

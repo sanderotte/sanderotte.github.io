@@ -1,20 +1,20 @@
 - title: "Confined vacuum resonances as artificial atoms with tunable lifetime"
-  image:
-  description:
+  image: rejali2022.png
+  description: Experimental study of the lifetime of electrons residing in states that are situated in the vacuum between STM tip and sample. The states are confined in the horizontal directions by means of atomic manipulation. 
   authors: R. Rejali, L. Farinacci, D. Coffey, R. Broekhoven, J. Gobeil, Y. M. Blanter and S. Otte
   link:
     url: https://doi.org/10.1021/acsnano.2c04574
     display: ACS Nano 16, 11251 (2022)
-  highlight: 0
+  highlight: 1
 
 - title: "Free coherent evolution of a coupled atomic spin system initialized by electron scattering"
-  image:
-  description:
+  image: veldman2021.jpg
+  description: Demonstration of a new technique combining ESR-STM and electric pump-probe spectroscopy, enabling the detection of coherent spin dynamics. We use the technique to show the free flip-flop evolution of two exchange-coupled Ti atoms.
   authors: L. M. Veldman, L. Farinacci, R. Rejali, R. Broekhoven, J. Gobeil, D. Coffey, M. Ternes and A. F. Otte
   link:
     url: https://doi.org/10.1126/science.abg8223
     display: Science 372, 964 (2021)
-  highlight: 0
+  highlight: 1
 
 - title: "Complete reversal of the atomic unquenched orbital moment by a single electron"
   image:
@@ -26,13 +26,13 @@
   highlight: 0
 
 - title: "Remote detection and recording of atomic-scale spin dynamics"
-  image:
-  description:
+  image: elbertse2020.jpg
+  description: Presentation of a sensor device built of only 11 Fe atoms that can detect the presence of a spin wave traveling away from the STM probe tip. The spin wave information is stored in the device for later readout.
   authors: R. J. G. Elbertse, D. Coffey, J. Gobeil and A. F. Otte
   link:
     url: https://doi.org/10.1038/s42005-020-0361-z
     display: Communications Physics 3, 94 (2020)
-  highlight: 0
+  highlight: 1
 
 - title: "Creating designer quantum states of matter atom-by-atom"
   image:
@@ -108,24 +108,24 @@
   highlight: 0
 
 - title: "A kilobyte rewritable atomic memory"
-  image:
-  description:
+  image: kalff2016.jpg
+  description: Construction of a fully functional memory device comprising 8,000 bits, where each bit is represented by the position of a single atom. Featured in many news outlets worlwide, as described here in [Physics Today](http://dx.doi.org/10.1063/PT.5.8182).
   authors: F. E. Kalff, M. P. Rebergen, E. Fahrenfort, J. Girovsky, R. Toskovic, J. L. Lado, J. Fernández-Rossier and A. F. Otte
   link:
     url: http://dx.doi.org/10.1038/nnano.2016.131
     display: Nature Nanotechnology 11, 926 (2016)
-  notes: (Featured in [News & Views](http://dx.doi.org/10.1038/nnano.2016.141) by S. C. Erwin)
-  highlight: 0
+  notes: (Featured in [News & Views](http://dx.doi.org/10.1038/nnano.2016.141) by S. C. Erwin. Also mentioned in [Physics Today](http://dx.doi.org/10.1063/PT.5.8182).)
+  highlight: 1
 
 - title: "Atomic spin-chain realization of a model for quantum criticality"
-  image:
-  description:
+  image: toskovic2016.png
+  description: Creation of an experimental XXZ-chain in a transverse field, built from individual Co atoms. This work is considered to be an early example of quantum simulation through atomic assembly by means of STM.
   authors: R. Toskovic, R. van den Berg, A. Spinelli, I. S. Eliens, B. van den Toorn, B. Bryant, J.-S. Caux and A. F. Otte
   link:
     url: http://dx.doi.org/10.1038/nphys3722
     display: Nature Physics 12, 656 (2016)
   notes: (Featured in [News & Views](http://dx.doi.org/10.1038/nphys3751) by F. Mila)
-  highlight: 0
+  highlight: 1
 
 - title: "Exploring the phase diagram of the two-impurity Kondo problem"
   image:
@@ -155,14 +155,14 @@
   highlight: 0
 
 - title: "Imaging of spin waves in atomically designed nano magnets"
-  image:
-  description:
+  image: spinelli2014.jpg
+  description: Visualization of magnon (spin wave) modes in a chain of ferromagnetically coupled Fe atoms. The magnons are shown to govern the magnetic switching rate of the chain. 
   authors: A. Spinelli, B. Bryant, F. Delgado, J. Fernández-Rossier and A. F. Otte
   link:
     url: http://dx.doi.org/10.1038/nmat4018
     display: Nature Materials 13, 782 (2014)
   notes: (Featured in [News & Views](http://dx.doi.org/10.1038/nmat4038) by S. Rohart and G. Rodary)
-  highlight: 0
+  highlight: 1
 
 - title: "Local control of single atom magneto-crystalline anisotropy"
   image:

@@ -9,11 +9,8 @@ permalink: /people/
 ## Group Members
 
 
-Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/vacancies) for opportunities!
-
-
-<br /> 
 ### Current Staff
+Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 {% assign number_printed = 0 %}
 {% for member in site.data.staff %}
 
