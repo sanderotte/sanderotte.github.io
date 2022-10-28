@@ -6,14 +6,14 @@ sitemap: false
 permalink: /people/
 ---
 
-# Group Members
+## Group Members
 
 
 Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/vacancies) for opportunities!
 
 
 <br /> 
-## Current Staff
+### Current Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.staff %}
 
@@ -86,7 +86,7 @@ Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/
 {% endif %}
 
 
-<!-- ## Postdocs and PhD students -->
+<!-- ### Postdocs and PhD students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -159,7 +159,7 @@ Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/
 
 
 <br />
-## MSc and BSc Students
+### MSc and BSc Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -218,7 +218,7 @@ Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/
 {% endif %}
 
 <br />
-## Group Alumni
+### Group Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -252,7 +252,7 @@ Interested in joining us? Check our [openings]({{ site.url }}{{ site.baseurl }}/
 {% endif %}
 
 <br />
-## Former BSc/MSc Students
+### Former BSc/MSc Students
 <div class="row">
 
 <!--
