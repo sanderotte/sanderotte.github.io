@@ -58,16 +58,16 @@ In our group we study matter at the smallest possible scale: the scale of indivi
 Our research focuses in particular on magnetic atoms, whose quantum spins combine to display fascinating unexpected physics. Using novel techniques such as electron spin resonance (ESR) STM and ultrafast pump-probe spectroscopy, we aim to observe and control the coherent dynamics of spin arrays. Such spin waves are at the heart of many fundamental phenomena and form the basis for strategies towards quantum information technology.<br />
 <br />
 
- **We are  looking for passionate new Postdocs, PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**<br />
+ **We are  looking for enthusiastic new Postdocs, PhD students and MSc students to join the team!** See our [Openings]({{ site.url }}{{ site.baseurl }}/vacancies) page for more information.<br />
 <br />
 
 We are part of the [Department of Quantum Nanoscience](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience) at [Delft University of Technology](https://www.tudelft.nl). We are grateful for funding from the [Kavli Foundation](https://kavlifoundation.org), the [European Research Council](https://erc.europa.eu/homepage) (Starting Grant) and the [Dutch Research Council](https://www.nwo.nl) (Vici Talent Scheme and QuMat _Zwaartekracht_ Progam).<br />
 <br />
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_QN.png" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 60px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="width: 210px">](https://www.tudelft.nl)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_QN.png" style="width: 250px">](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">](https://erc.europa.eu/homepage)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 60px">](https://www.nwo.nl)
 </figure>
 

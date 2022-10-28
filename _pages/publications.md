@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
-## Group Highlights
+### Highlights
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 <!--
-## Patents
+### Patents
 <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
@@ -62,41 +62,41 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  <i>{{ publi.title }}</i> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  {{ publi.title }} <br />
+  <i>{{ publi.authors }}</i> <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   {{ publi.notes }}
 
 {% endfor %}
 <br />
 
-### Older Publications
+#### Older Publications
 
 {% for publi in site.data.oldpubs %}
 
-  <i>{{ publi.title }}</i> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  {{ publi.title }} <br />
+  <i>{{ publi.authors }}</i> <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   {{ publi.notes }}
 
 {% endfor %}
 <br />
 
-### Popular Scientific
+#### Popular Scientific
 
 {% for publi in site.data.popsci %}
 
-  <i>{{ publi.title }}</i> {{ publi.notes }} <br />
-  {{ publi.authors }} <br />
+  {{ publi.title }} {{ publi.notes }} <br />
+  <i>{{ publi.authors }}</i> <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 <br />
 
-### PhD Theses
+#### PhD Theses
 
 {% for publi in site.data.phdtheses %}
 
-  <i>{{ publi.title }}</i> <br />
-  {{ publi.authors }} <br />
+  {{ publi.title }} <br />
+  <i>{{ publi.authors }}</i> <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
