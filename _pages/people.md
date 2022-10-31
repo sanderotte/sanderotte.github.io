@@ -160,6 +160,9 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
 
 <br />
 ### MSc and BSc Students
+
+<!--
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -171,11 +174,10 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   
   <ul style="overflow: hidden">
 
-<!--
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -199,8 +201,6 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
   <li> {{ member.education4 }} </li>
   {% endif %}
 
--->
-
   </ul>
 </div>
 
@@ -216,6 +216,17 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+-->
+
+
+{% for member in site.data.students %}
+<br />
+<h4>{{ member.name }}</h4>
+<i>{{ member.info }}</i><br />
+<i> email: </i><{{ member.email }}><br />
+{% endfor %}
+
 
 <br />
 ### Group Alumni

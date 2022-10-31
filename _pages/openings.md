@@ -24,14 +24,14 @@ STM allows for the study of magnetism on the smallest scale: the scale of indivi
 
 #### Job description / requirements
 
-<i>PhD student</i><br />
+<br /><i>**PhD student**</i><br />
 You will work on a dedicated research project expanding on our latest results. The exact project can be discussed and might evolve as the rapidly expanding field develops. As such, you will be given a lot of freedom in shaping your PhD thesis.
 
 We are looking for an enthusiastic candidate with an MSc degree in physics or a closely related field. Knowledge of quantum mechanics and solid state physics is highly valued. General experience with experimental physics is preferred, but prior experience with specific techniques such as STM is not required.
 
 The contract will be for 4 years with an official go/no go assessment after the first year. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities. The application will remain open until a suitable candidate has been found.
 
-<i>Postdoc</i><br />
+<br /><i>**Postdoc**</i><br />
 As a postdoc you will fulfil an overarching role in the research of our group. In addition to running your own research, you will guide one or more PhD students with their projects. You will also be involved in identifying and developing strategies for future research directions.
 
 The ideal candidate has research experience in a field related to ESR and/or quantum information. Experience with low-temperature STM is desired but not mandatory. The initial contract will be for 2 years. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities. The application will remain open until a suitable candidate has been found.
