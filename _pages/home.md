@@ -25,24 +25,25 @@ In our group we study matter at the smallest possible scale: the scale of indivi
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
        
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20170418_9066d.jpg" alt="Slide 1" />
-        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/kilobyte_darwin.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/kilobyte_darwin.jpg" alt="Slide 1" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSC_0762.jpg" alt="Slide 3" />
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/IMG_0028.jpg" alt="Slide 2" />
         </div>
+	<div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20170418_9066d.jpg" alt="Slide 3" />
+        </div>   
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20170418_9039d.jpg" alt="Slide 4" />
-        </div>    
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SFl10_01HR.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SFl10_01HR.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/IMG_0028.jpg" alt="Slide 6" />
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSC_0762.jpg" alt="Slide 5" />
         </div>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20170418_9039d.jpg" alt="Slide 6" />
+        </div> 
+       
           
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
