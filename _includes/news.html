@@ -5,7 +5,7 @@
 
 <h3>News</h3>
 
-{% for article in site.data.news limit:9 %}
+{% for article in site.data.news limit:4 %}
 <p>{{ article.date }}<small>{{ article.headline | markdownify}}</small></p>
 {% endfor %}
 

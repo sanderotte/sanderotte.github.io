@@ -1,9 +1,9 @@
 ---
 title: "OtteLab - Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "OtteLab - Openings"
 sitemap: false
-permalink: /openings
+permalink: /openings/
 ---
 
 ## Open positions

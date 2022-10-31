@@ -1,16 +1,19 @@
 ---
 title: "OtteLab - People"
 layout: gridlay
-excerpt: "OtteLab: Group members"
+excerpt: "OtteLab - People"
 sitemap: false
 permalink: /people/
 ---
 
 ## Group Members
-
+<br />
+Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
+<br />
+<br />
 
 ### Current Staff
-Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
+
 {% assign number_printed = 0 %}
 {% for member in site.data.staff %}
 

@@ -1,20 +1,19 @@
 ---
 title: "OtteLab - Publications"
 layout: gridlay
-excerpt: "OtteLab -- Publications."
+excerpt: "OtteLab - Publications"
 sitemap: false
 permalink: /publications/
 ---
 
 
 ## Publications
-
- 
-### Highlights
-
+<br />
 Skip to list of [all peer-reviewed publications](#allpubs). Below, you can also find our [popular scientific](#popsci) papers and [PhD theses](#theses).
 <br />
 <br />
+ 
+### Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
