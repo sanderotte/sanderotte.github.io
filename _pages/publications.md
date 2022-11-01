@@ -1,7 +1,7 @@
 ---
-title: "OtteLab - Publications"
+title: "OtteLab | Publications"
 layout: gridlay
-excerpt: "OtteLab - Publications"
+excerpt: "OtteLab | Publications"
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "OtteLab - People"
+title: "OtteLab | People"
 layout: gridlay
-excerpt: "OtteLab - People"
+excerpt: "OtteLab | People"
 sitemap: false
 permalink: /people/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "OtteLab - Home"
+title: "OtteLab | Home"
 layout: homelay
-excerpt: "OtteLab at TU Delft."
+excerpt: "OtteLab | Home."
 sitemap: false
 permalink: /
 ---

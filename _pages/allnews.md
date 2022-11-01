@@ -1,9 +1,9 @@
 ---
-title: "News"
+title: "OtteLab | News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "OtteLab | News"
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 

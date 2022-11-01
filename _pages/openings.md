@@ -1,7 +1,7 @@
 ---
-title: "OtteLab - Openings"
+title: "OtteLab | Openings"
 layout: textlay
-excerpt: "OtteLab - Openings"
+excerpt: "OtteLab | Openings"
 sitemap: false
 permalink: /openings/
 ---

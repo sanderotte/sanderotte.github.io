@@ -1,7 +1,7 @@
 ---
-title: "OtteLab - Media"
+title: "OtteLab | Media"
 layout: textlay
-excerpt: "OtteLab - Media"
+excerpt: "OtteLab | Media"
 sitemap: false
 permalink: /media/
 ---
@@ -27,7 +27,7 @@ In 2016, in a [Nature Nanotechnology](http://dx.doi.org/10.1038/nnano.2016.131) 
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/ZcU-sZJkh_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
-As described in this [Physics Today](http://dx.doi.org/10.1063/PT.5.8182) article, the work gained significant attention in the international news, including stories in [The Economist](https://www.economist.com/science-and-technology/2016/07/23/atoms-and-the-voids), [The Wall Street Journal](https://www.wsj.com/articles/tiny-hard-drive-uses-single-atoms-to-store-data-1468854001) and [Gizmodo](https://gizmodo.com/record-setting-hard-drive-writes-information-one-atom-a-1783740015). Below, you can download two high-resolution versions of the iconic STM images of the memory: 'Feynman' (annotated) and 'Darwin'. Please let us know if you plan to use them (which is allowed).
+As described in this [Physics Today](http://dx.doi.org/10.1063/PT.5.8182) article, the work gained significant attention in the international news, including stories in [The Economist](https://www.economist.com/science-and-technology/2016/07/23/atoms-and-the-voids), [The Wall Street Journal](https://www.wsj.com/articles/tiny-hard-drive-uses-single-atoms-to-store-data-1468854001) and [Gizmodo](https://gizmodo.com/record-setting-hard-drive-writes-information-one-atom-a-1783740015). Below, you can download two high-resolution versions of the iconic STM images of the memory: 'Feynman' (annotated) and 'Darwin'. Please let us know if you plan to use them.
 
 <div id="feynman" class="col-sm-4">
 [<img src='/images/media/Feynman.png' class='img-responsive' style='max-width: 250px'/>]({{ site.url }}{{ site.baseurl }}/images/media/Feynman.png)
