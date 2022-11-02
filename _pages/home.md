@@ -67,10 +67,12 @@ Our research focuses in particular on magnetic atoms, whose quantum spins combin
 We are part of the [Department of Quantum Nanoscience](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience) at [Delft University of Technology](https://www.tudelft.nl). We are grateful for funding from the [Kavli Foundation](https://kavlifoundation.org), the [European Research Council](https://erc.europa.eu/homepage) (Starting Grant) and the [Dutch Research Council](https://www.nwo.nl) (Vici Talent Scheme and QuMat _Zwaartekracht_ Progam).<br />
 <br />
 
-<figure class="fourth">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="width: 33%; max-width: 210px">](https://www.tudelft.nl)
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_QN.png" style="width: 39%; max-width: 250px">](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience)
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 16%; max-width: 100px">](https://erc.europa.eu/homepage)
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 10%; max-width: 60px">](https://www.nwo.nl)
-</figure>
+
+
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="max-width: 210px">](https://www.tudelft.nl)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_QN.png" style="max-width: 250px">](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="max-width: 100px">](https://erc.europa.eu/homepage)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="max-width: 60px">](https://www.nwo.nl)
+
+
 
