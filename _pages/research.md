@@ -56,7 +56,6 @@ We have two low-temperature STM systems at our disposal. Both systems operate in
 </div>
 
 <div class="col-sm-8">
-<br />
 #### SPECS<sup>TM</sup> Joule-Thomson STM/AFM
 Our JT system provides both STM and [qPlus](https://doi.org/10.1063/1.5052264) AFM capabilities. The system features a large scan range and multiple contacts on the sample stage.<br /><br />
 <i>Base temperature:</i> 1.0 K<br />
@@ -74,7 +73,6 @@ Our JT system provides both STM and [qPlus](https://doi.org/10.1063/1.5052264) A
 </div>
 
 <div class="col-sm-8">
-<br />
 #### Unisoku USM-1300 <sup>3</sup>He STM
 With a hold time of approx. 24 hours, the <sup>3</sup>He-cooled STM offers excellent stability. The vector magnetic field makes it ideal for high-precision spin measurements.<br /><br />
 <i>Base temperature:</i> 300 mK<br />
