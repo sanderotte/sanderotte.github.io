@@ -68,9 +68,9 @@ We are part of the [Department of Quantum Nanoscience](https://www.tudelft.nl/tn
 <br />
 
 <figure class="fourth">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="width: 210px">](https://www.tudelft.nl)
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_QN.png" style="width: 250px">](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience)
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">](https://erc.europa.eu/homepage)
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 60px">](https://www.nwo.nl)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="width: 33%; max-width: 210px">](https://www.tudelft.nl)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_QN.png" style="width: 39%; max-width: 250px">](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/quantum-nanoscience)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 16%; max-width: 100px">](https://erc.europa.eu/homepage)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 10%; max-width: 60px">](https://www.nwo.nl)
 </figure>
 
