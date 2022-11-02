@@ -14,7 +14,7 @@ The primary focus of our group is on atomic-scale magnetism. We study structures
 The STM image below, which is approx. 30 nm wide, shows an island of Cu<sub>2</sub>N (purple) on top of Cu(100) (orange). Scattered across the surface are Fe atoms (yellow protrusions). On the island, groups of Fe atoms are assembled into various structures. Depending on the relative positioning of the atoms, their spins can couple ferro- or antiferromagnetically. Also, by adjusting the spacing between atoms, the coupling strength can be tuned over several orders of magnitude.
 
 <p>
-<img src='/images/media/Cu2N_manip.png' class='img-responsive' style='max-width: 400px'/>
+<img src='/images/media/Cu2N_manip.png' class="img-responsive" style='width: 100%; max-width: 400px' />
 </p>
 
 
@@ -22,19 +22,22 @@ We have several methods at our disposal to investigate the spin states of these 
 
 <br />
 <p>
-<video class="video-fluid z-depth-1" style='max-width: 500px' src='/images/media/spin_wave.mp4' autoplay loop/>
+<video class="video-fluid z-depth-1" style='width: 100%; max-width: 500px' src='/images/media/spin_wave.mp4' autoplay loop/>
 </p>
 
 In recent years, our group has adopted the methodology of **electron spin resonance STM** (ESR-STM), developed in 2015 by [Baumann and coworkers](https://doi.org/10.1126/science.aac8703). In ESR-STM, a radio frequency (RF) signal (typically in the ~10-20 GHz range) is sent down to the STM tip. Due to a piezo-electric response mechanism of the surface, the resulting oscillating electric field is locally converted into an oscillating magnetic field, felt only by the atom directly underneath the tip. This, in turn, sets up a Rabi rotation of the atomic spin, resulting in a change in the spin-polarized conductance only when the drive signal is in resonance with the precession of the spin.
 
 <br />
 
+<div class="col-sm-12">
+
 <div class="col-sm-2">
 <img src='/images/media/ESR-STM_a.png' class='img-responsive' style='max-width: 170px'/>
 </div>
-<div class="col-sm-10">
+<div class="col-sm-3">
 <img src='/images/media/ESR-STM_b.png' class='img-responsive' style='max-width: 290px'/>
-<br /><br />
+</div>
+
 </div>
 
 
@@ -49,7 +52,7 @@ We have two low-temperature STM systems at our disposal. Both systems operate in
 <br />  
 
 <div class="col-sm-4">
-<img src='/images/media/JT_STM.jpg' class='img-responsive' style='max-width: 280px'/>
+<img src='/images/media/JT_STM.jpg' class='img-responsive' style='width: 100%; max-width: 280px'/>
 </div>
 
 <div class="col-sm-8">
@@ -67,7 +70,7 @@ Our JT system provides both STM and [qPlus](https://doi.org/10.1063/1.5052264) A
 
 
 <div class="col-sm-4">
-<img src='/images/media/3He_STM.jpg' class='img-responsive' style='max-width: 280px'/>
+<img src='/images/media/3He_STM.jpg' class='img-responsive' style='width: 100%; max-width: 280px'/>
 </div>
 
 <div class="col-sm-8">
