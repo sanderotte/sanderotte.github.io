@@ -10,6 +10,7 @@ permalink: /research/
 
 <br />
 The primary focus of our group is on atomic-scale magnetism. We study structures composed of individual magnetic atoms, assembled by means of **atom manipulation**. In order for the spins of these atoms to be as much as possible separated from the outside world, we position the atoms on thin layers of insulating material (e.g. MgO or Cu<sub>2</sub>N) on top of a metal surface (e.g. Ag(100) or Cu(100)).
+<br /><br />
 
 The STM image below, which is approx. 30 nm wide, shows an island of Cu<sub>2</sub>N (purple) on top of Cu(100) (orange). Scattered across the surface are Fe atoms (yellow protrusions). On the island, groups of Fe atoms are assembled into various structures. Depending on the relative positioning of the atoms, their spins can couple ferro- or antiferromagnetically. Also, by adjusting the spacing between atoms, the coupling strength can be tuned over several orders of magnitude.
 
@@ -53,8 +54,10 @@ In recent years, our group has adopted the methodology of **electron spin resona
 
 
 ESR-STM provides tremendous resolution in terms of energy, but it still gives an ensemble-average in the time domain. In order to also gain insight into time evolution, we perform **pump-probe spectroscopy**. In a pump-probe experiment, two pulses are sent in rapid succession: one to initialize the spin and one to take a snapshot of its magnetization after a set delay time. As described in 2021 in [Veldman _et al._](https://doi.org/10.1126/science.abg8223), this allows us to trace the coherent dynamics of coupled spins with nanosecond precision.
-<br /><br />  
+<br /><br /> 
 
+As an additional probing technique besides STM, we also implemented **qPlus non-contact atomic force microscopy** (AFM), originally developed by [Giessibl](https://doi.org/10.1063/1.5052264), into one of our systems. AFM separates structural from electronic information, which may give us new insight into the exact driving mechanism of ESR-STM. In addition, as AFM does not rely on a tunnel current, it allows us to explore non-conductive substrates for our spins, which are believed to offer much longer coherence times.
+<br /><br /> 
 
 
 ### Equipment
@@ -68,7 +71,7 @@ We have two low-temperature STM systems at our disposal. Both systems operate in
 
 <div class="col-sm-8">
 #### SPECS<sup>TM</sup> Joule-Thomson STM/AFM
-Our JT system provides both STM and [qPlus](https://doi.org/10.1063/1.5052264) AFM capabilities. The system features a large scan range and multiple contacts on the sample stage.<br /><br />
+Our JT system provides both STM and qPlus AFM capabilities. The system features a large scan range and multiple contacts on the sample stage.<br /><br />
 <i>Base temperature:</i> 1.0 K<br />
 <i>Magnetic field:</i> 3.0 T (out-of-plane)<br />
 <i>RF capability:</i> 30 GHz (antenna)<br />
