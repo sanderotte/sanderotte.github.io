@@ -29,16 +29,27 @@ In recent years, our group has adopted the methodology of **electron spin resona
 
 <br />
 
+
+<p>
+<img src='/images/media/ESR-STM.png' class="img-responsive" style='width: 100%; max-width: 500px' />
+</p>
+
+
+<!--
+
 <div class="col-sm-12">
 
+<div class="col-sm-5">
+<img src='/images/media/ESR-STM_b.png' class='img-responsive' style='max-width: 350px'/>
+</div>
 <div class="col-sm-2">
 <img src='/images/media/ESR-STM_a.png' class='img-responsive' style='max-width: 170px'/>
 </div>
-<div class="col-sm-3">
-<img src='/images/media/ESR-STM_b.png' class='img-responsive' style='max-width: 290px'/>
-</div>
+
 
 </div>
+
+-->
 
 
 ESR-STM provides tremendous resolution in terms of energy, but it still gives an ensemble-average in the time domain. In order to also gain insight into time evolution, we perform **pump-probe spectroscopy**. In a pump-probe experiment, two pulses are sent in rapid succession: one to initialize the spin and one to take a snapshot of its magnetization after a set delay time. As described in 2021 in [Veldman _et al._](https://doi.org/10.1126/science.abg8223), this allows us to trace the coherent dynamics of coupled spins with nanosecond precision.
@@ -49,7 +60,7 @@ ESR-STM provides tremendous resolution in terms of energy, but it still gives an
 ### Equipment
 
 We have two low-temperature STM systems at our disposal. Both systems operate in ultra-high vacuum (UHV) conditions and were recently upgraded with high-frequency cabling.
-<br />  
+<br /><br /> 
 
 <div class="col-sm-4">
 <img src='/images/media/JT_STM.jpg' class='img-responsive' style='width: 100%; max-width: 280px'/>
