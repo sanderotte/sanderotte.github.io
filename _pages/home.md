@@ -19,7 +19,9 @@ In our group we study matter at the smallest possible scale: the scale of indivi
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+<!--
 	<li data-target="#carousel" data-slide-to="5"></li>
+-->
     </ol>
 
     <!-- Items -->
@@ -40,9 +42,11 @@ In our group we study matter at the smallest possible scale: the scale of indivi
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSC_0762.jpg" alt="Slide 5" />
         </div>
+<!--
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/20170418_9039d.jpg" alt="Slide 6" />
-        </div>    
+        </div>
+-->    
         
         
           
