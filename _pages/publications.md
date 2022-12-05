@@ -100,9 +100,10 @@ Skip to list of [all peer-reviewed publications](#allpubs). Below, you can also 
 
 {% for publi in site.data.phdtheses %}
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive"  style="width: 100%; max-width: 160px" />
   {{ publi.title }} <br />
   <i>{{ publi.authors }}</i> <br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br /><br />
 
 {% endfor %}
 <br />
