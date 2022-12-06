@@ -24,7 +24,7 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; border-radius:5px" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i><br />
   <i> office: </i>{{ member.office }}<br />
@@ -97,7 +97,7 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; border-radius:5px" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i><br />
   <i> office: </i>{{ member.office }}<br />
@@ -241,7 +241,7 @@ Interested in joining us? Check our [Openings]({{ site.url }}{{ site.baseurl }}/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; border-radius:5px" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br /> {{ member.duration }}
   <ul style="overflow: hidden">
